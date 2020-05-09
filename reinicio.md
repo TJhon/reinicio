@@ -1,6 +1,0 @@
-# Programas al iniciar
-
-
-
-
-
