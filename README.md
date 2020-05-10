@@ -1,6 +1,7 @@
 # Programas al iniciar
 
 - [Opera](https://www.opera.com/download)
+  Paradoja77Paradoja
 
 
 ## Programacaion
