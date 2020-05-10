@@ -23,7 +23,6 @@
     - choco install pandoc
     - choco install rsvg-convert
 - [RStudio](https://download1.rstudio.org/desktop/windows/RStudio-1.2.5042.exe)
-  - 
 - [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools40-x86_64.exe)
 - [Visual Studio Code](https://code.visualstudio.com)
 - Tableau
@@ -42,3 +41,10 @@
 - [WordTex](https://www.andrew.cmu.edu/user/twildenh/wordtex/downloads/wordtex.zip)
 - [Zotero](https://www.zotero.org/download/client/dl?channel=release&platform=win32&version=5.0.86)
 - [Mendeley](https://www.mendeley.com/autoupdates/installer/Windows-x86/stable-incoming)
+
+## Librerias 
+
+C:\Users\Name
+
+- Julia 
+- Vscode
