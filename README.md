@@ -1,7 +1,8 @@
+Referencia de los programas al reiniciar la pc o iniciar en otra
+
 # Programas al iniciar
 
 - [Opera](https://www.opera.com/download)
-  Paradoja77Paradoja
 
 
 ## Programacaion
