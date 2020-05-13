@@ -13,7 +13,10 @@
   - [Librerias](https://drive.google.com/drive/folders/1LgOJMrrQtY62B1z4xM317LOqt11Te7z8?usp=sharing)
 - [Julia](https://julialang.org/downloads/)
 - [R](https://cran.r-project.org/bin/windows/base/)
-  - [Theme](https://drive.google.com/drive/folders/1ScgQZDyeG8WuLovpxXo01O-ljAAAJ0S0?usp=sharing)
+  - Theme
+    ```
+    rstudioapi::addTheme("https://raw.githubusercontent.com/TJhon/reinicio/master/doc/night-owlish.rstheme?token=ALUENS7D3EM2BO2CGHU6RJC6XQ3BW", apply = TRUE)
+    ```
   - [Librerias](https://drive.google.com/drive/folders/1MuVyoOxBGi70F9uQeSM2qscODYWamyJ5?usp=sharing)
 - Chocolatec
   - Powershell(Administrador)
