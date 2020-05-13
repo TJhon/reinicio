@@ -14,9 +14,7 @@
 - [Julia](https://julialang.org/downloads/)
 - [R](https://cran.r-project.org/bin/windows/base/)
   - Theme
-    ```
-    rstudioapi::addTheme("https://raw.githubusercontent.com/TJhon/reinicio/master/doc/night-owlish.rstheme?token=ALUENS7D3EM2BO2CGHU6RJC6XQ3BW", apply = TRUE)
-    ```
+   - doc/night-owlish.rstheme
   - [Librerias](https://drive.google.com/drive/folders/1MuVyoOxBGi70F9uQeSM2qscODYWamyJ5?usp=sharing)
 - Chocolatec
   - Powershell(Administrador)
