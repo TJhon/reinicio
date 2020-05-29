@@ -3,9 +3,12 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 # Programas al iniciar
 
 - [Opera](https://www.opera.com/download)
+  - [Traductor](https://addons.opera.com/en/extensions/details/translator)
+  - [Reloj](https://addons.opera.com/en/extensions/details/simple-clock/)
+  - [Descargar videos](https://addons.opera.com/en/extensions/details/savefromnet-helper/)
 
 
-## Programacaion
+## Programacion
 
 - [Git version](https://git-scm.com/downloads)
 - [Git hub](https://desktop.github.com)
