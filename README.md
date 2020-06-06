@@ -10,6 +10,7 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 
 ## Programacion
 
+- [Typora](https://typora.io/#windows)
 - [Git version](https://git-scm.com/downloads)
 - [Git hub](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com/download/windows64)
