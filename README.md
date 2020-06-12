@@ -6,6 +6,8 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
   - [Traductor](https://addons.opera.com/en/extensions/details/translator)
   - [Reloj](https://addons.opera.com/en/extensions/details/simple-clock/)
   - [Descargar videos](https://addons.opera.com/en/extensions/details/savefromnet-helper/)
+  - [Dark mode](https://addons.opera.com/en/extensions/details/dark-mode/)
+    - Dark invert #3
 
 
 ## Programacion
@@ -36,6 +38,22 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 
 
 ## Utilidades
+
+### Remplazo de Adobe Reader
+
+- [SumatraPdf](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) 
+  - Lector de pdf
+  
+- [Java](https://www.java.com/en/download/win10.jsp)
+  - Rendimiento 
+  
+- [Pdf split](https://sourceforge.net/projects/pdfsam/files/)
+  - Combinar pdfs
+  
+- [Briss](https://sourceforge.net/projects/briss/files/)
+   - Recorte automatico
+   
+### Otros
 
 - [Lenovo Vantage](https://www.microsoft.com/en-us/p/lenovo-vantage/9wzdncrfj4mv?activetab=pivot:overviewtab)
 - [Canon IJ Scan utility](https://in.canon/en/support/0100767212/1)
