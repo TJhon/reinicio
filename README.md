@@ -16,7 +16,7 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 - [Git version](https://git-scm.com/downloads)
 - [Git hub](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com/download/windows64)
-- [Miktex](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/setup-2.9.6942-x64.exe)
+- [Miktex](https://miktex.org/download)
   - [Librerias](https://drive.google.com/drive/folders/1LgOJMrrQtY62B1z4xM317LOqt11Te7z8?usp=sharing)
 - [Julia](https://julialang.org/downloads/)
 - [R](https://cran.r-project.org/bin/windows/base/)
@@ -31,7 +31,7 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
   - [Pandoc](https://pandoc.org/installing.html)
     - choco install pandoc
     - choco install rsvg-convert
-- [RStudio](https://download1.rstudio.org/desktop/windows/RStudio-1.2.5042.exe)
+- [RStudio](https://rstudio.com/products/rstudio/download/#download)
 - [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools40-x86_64.exe)
 - [Visual Studio Code](https://code.visualstudio.com)
 - Tableau
