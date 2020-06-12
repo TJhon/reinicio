@@ -43,13 +43,10 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 
 - [SumatraPdf](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) 
   - Lector de pdf
-  
 - [Java](https://www.java.com/en/download/win10.jsp)
   - Rendimiento 
-  
 - [Pdf split](https://sourceforge.net/projects/pdfsam/files/)
   - Combinar pdfs
-  
 - [Briss](https://sourceforge.net/projects/briss/files/)
    - Recorte automatico
    
