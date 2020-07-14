@@ -16,7 +16,7 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
   Markdown
 - [Git version](https://git-scm.com/downloads)
 - [Git hub](https://desktop.github.com)
-- [GitKraken](https://www.gitkraken.com/download/windows64)
+- [GitKraken](https://www.gitkraken.com/download)
 - [Miktex](https://miktex.org/download)
 
   - [Librerias](https://drive.google.com/drive/folders/1LgOJMrrQtY62B1z4xM317LOqt11Te7z8?usp=sharing)
