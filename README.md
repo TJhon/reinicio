@@ -13,10 +13,12 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 ## Programacion
 
 - [Typora](https://typora.io/#windows)
+  Markdown
 - [Git version](https://git-scm.com/downloads)
 - [Git hub](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com/download/windows64)
 - [Miktex](https://miktex.org/download)
+
   - [Librerias](https://drive.google.com/drive/folders/1LgOJMrrQtY62B1z4xM317LOqt11Te7z8?usp=sharing)
 - [Julia](https://julialang.org/downloads/)
 - [R](https://cran.r-project.org/bin/windows/base/)
@@ -61,6 +63,9 @@ Referencia de los programas al reiniciar la pc o iniciar en otra
 ## Adicionales
 
 - [WordTex](https://www.andrew.cmu.edu/user/twildenh/wordtex/downloads/wordtex.zip)
+  Template de word con adapataciones de LaTeX
+### Gestores de referencia
+  
 - [Zotero](https://www.zotero.org/download/client/dl?channel=release&platform=win32&version=5.0.86)
 - [Mendeley](https://www.mendeley.com/autoupdates/installer/Windows-x86/stable-incoming)
 
